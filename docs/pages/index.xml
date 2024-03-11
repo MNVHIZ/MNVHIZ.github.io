@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on MNVHIZ 的小屋</title>
+        <link>https://mnvhiz.github.io/pages/</link>
+        <description>Recent content in Pages on MNVHIZ 的小屋</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language><atom:link href="https://mnvhiz.github.io/pages/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>关于本站</title>
+        <link>https://mnvhiz.github.io/about/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://mnvhiz.github.io/about/</guid>
+        <description>&lt;img src="https://mnvhiz.github.io/about/head.jpg" alt="Featured image of post 关于本站" /&gt;&lt;p&gt;这是我的个人记事本。使用 &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Hugo&lt;/a&gt; 搭建。使用了 Jimmy 设计的 &lt;a class=&#34;link&#34; href=&#34;https://github.com/CaiJimmy/hugo-theme-stack&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Stack&lt;/a&gt; 模板。托管在 Github Pages 上。在此对提供这些服务的服务商和个人表示感谢。&lt;/p&gt;
+&lt;p&gt;记录生活，分享生活中的见解和思考。&lt;/p&gt;
+&lt;h2 id=&#34;我是谁&#34;&gt;我是谁&lt;/h2&gt;
+&lt;p&gt;数学专业在读大学生。对计算机程序设计感兴趣。&lt;/p&gt;
+&lt;h2 id=&#34;内容版权&#34;&gt;内容版权&lt;/h2&gt;
+&lt;p&gt;在没有特别声明的情况下，本站内容皆以 &lt;a class=&#34;link&#34; href=&#34;https://creativecommons.org/licenses/by-sa/4.0/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;CC BY-SA 4.0&lt;/a&gt; 方式共享，这意味着：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;你可以转载、演绎内容，也可以将其用作商业用途，但是&lt;strong&gt;必须注明来源&lt;/strong&gt;（你可以注明本博客的地址 &lt;a class=&#34;link&#34; href=&#34;https://mnvhiz.github.io&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://mnvhiz.github.io&lt;/a&gt;；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;你演绎、编集等行为产生的新作品必须也&lt;strong&gt;遵循本知识共享协议的限制&lt;/strong&gt;。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;版权所有，保留对侵犯知识产权的行为追诉责任的权利。&lt;/p&gt;
+&lt;h2 id=&#34;联系方式&#34;&gt;联系方式&lt;/h2&gt;
+&lt;p&gt;在此不提供任何联系方式。&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

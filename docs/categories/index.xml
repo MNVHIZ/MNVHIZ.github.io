@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Categories on MNVHIZ 的小屋</title>
+        <link>https://mnvhiz.github.io/categories/</link>
+        <description>Recent content in Categories on MNVHIZ 的小屋</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <lastBuildDate>Sat, 09 Mar 2024 10:42:30 +0800</lastBuildDate><atom:link href="https://mnvhiz.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>博客</title>
+        <link>https://mnvhiz.github.io/categories/%E5%8D%9A%E5%AE%A2/</link>
+        <pubDate>Sat, 09 Mar 2024 10:42:30 +0800</pubDate>
+        
+        <guid>https://mnvhiz.github.io/categories/%E5%8D%9A%E5%AE%A2/</guid>
+        <description>&lt;img src="https://mnvhiz.github.io/categories/%E5%8D%9A%E5%AE%A2/poster.jpg" alt="Featured image of post 博客" /&gt;</description>
+        </item>
+        
+    </channel>
+</rss>

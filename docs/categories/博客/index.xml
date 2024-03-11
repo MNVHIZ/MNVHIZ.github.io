@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>博客 on MNVHIZ 的小屋</title>
+        <link>https://mnvhiz.github.io/categories/%E5%8D%9A%E5%AE%A2/</link>
+        <description>Recent content in 博客 on MNVHIZ 的小屋</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <lastBuildDate>Sat, 09 Mar 2024 10:42:30 +0800</lastBuildDate><atom:link href="https://mnvhiz.github.io/categories/%E5%8D%9A%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>欢迎来到我的博客</title>
+        <link>https://mnvhiz.github.io/post/my-first-post/</link>
+        <pubDate>Sat, 09 Mar 2024 10:42:30 +0800</pubDate>
+        
+        <guid>https://mnvhiz.github.io/post/my-first-post/</guid>
+        <description>&lt;img src="https://mnvhiz.github.io/post/my-first-post/head.jpg" alt="Featured image of post 欢迎来到我的博客" /&gt;&lt;p&gt;这是我的第一篇博客。&lt;/p&gt;
+&lt;p&gt;这个博客平台是基于 &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Hugo&lt;/a&gt; 平台的，使用了 Jimmy 的 &lt;a class=&#34;link&#34; href=&#34;https://github.com/CaiJimmy/hugo-theme-stack&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Stack&lt;/a&gt; 模板。&lt;/p&gt;
+&lt;p&gt;从现在开始，这个博客将正式启用，记录我的生活中的见解和思考。在这篇博文，对这个平台的 Markdown 支持进行了基本的测试。这个平台支持全部的 Markdown 语法和大部分 Markdown 扩展语法。&lt;/p&gt;
+&lt;h2 id=&#34;关于我&#34;&gt;关于我&lt;/h2&gt;
+&lt;p&gt;你可以在左侧&lt;a class=&#34;link&#34; href=&#34;https://mnvhiz.github.io/about/&#34; &gt;关于本站&lt;/a&gt;中获得关于我的基本信息。&lt;/p&gt;
+&lt;h2 id=&#34;markdown-测试&#34;&gt;Markdown 测试&lt;/h2&gt;
+&lt;p&gt;在这里测试一下本站对Markdown的基本支持。
+（标题貌似会打乱目录，在这里就不测试了）&lt;/p&gt;
+&lt;h3 id=&#34;加粗倾斜和删除线&#34;&gt;加粗、倾斜和删除线&lt;/h3&gt;
+&lt;p&gt;这是需要&lt;em&gt;强调&lt;/em&gt;的内容，这是很&lt;strong&gt;重要&lt;/strong&gt;的内容，这是既需要&lt;em&gt;强调&lt;/em&gt;又很&lt;strong&gt;重要&lt;/strong&gt;的&lt;em&gt;&lt;strong&gt;内容&lt;/strong&gt;&lt;/em&gt;。这是&lt;del&gt;错误的内容&lt;/del&gt;。&lt;/p&gt;
+&lt;h3 id=&#34;引用语法&#34;&gt;引用语法&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;这是一个引用&lt;/p&gt;
+&lt;p&gt;这是引用的另一段&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;这是另一段引用&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;列表语法&#34;&gt;列表语法&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;这是一个无序列表&lt;/li&gt;
+&lt;li&gt;这是无序列表的另一项&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li&gt;这是一个有序列表&lt;/li&gt;
+&lt;li&gt;这是有序列表的第二项&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ol&gt;
+&lt;li&gt;这是嵌在无序列表中的有序列表&lt;/li&gt;
+&lt;li&gt;这是有序列表的第二项&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;代码语法&#34;&gt;代码语法&lt;/h3&gt;
+&lt;p&gt;这是 &lt;code&gt;inline code&lt;/code&gt;，下面是一个行间代码&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;#include &amp;lt;stdio.h&amp;gt;
+int main()
+{
+    printf(&amp;#34;Hello World!\n&amp;#34;);
+    return 0;
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;支持语言标识符，但是渲染出来的太难看……&lt;/p&gt;
+&lt;h3 id=&#34;公式语法&#34;&gt;公式语法&lt;/h3&gt;
+&lt;p&gt;使用了 KaTeX 来渲染公式，看起来效果还不错。
+$$
+\int_0^\infty \frac{\sin x}{x} = \frac{\pi}{2}.
+$$&lt;/p&gt;
+&lt;h3 id=&#34;分隔符&#34;&gt;分隔符&lt;/h3&gt;
+&lt;p&gt;下面是一个分隔符&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;link&#34;&gt;链接&lt;/h3&gt;
+&lt;p&gt;这是一个指向 Hugo 官方网站的&lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;链接&lt;/a&gt;，也可以用纯链接样式的 &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://gohugo.io&lt;/a&gt;。还可以是指向某个标题的&lt;a class=&#34;link&#34; href=&#34;#link&#34; &gt;链接&lt;/a&gt;(标题支持 &lt;code&gt;{#link}&lt;/code&gt; 语法)。&lt;/p&gt;
+&lt;h3 id=&#34;图片&#34;&gt;图片&lt;/h3&gt;
+&lt;p&gt;下面一幅图片：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://mnvhiz.github.io/post/my-first-post/avatar.png&#34;
+	width=&#34;150&#34;
+	height=&#34;150&#34;
+	srcset=&#34;https://mnvhiz.github.io/post/my-first-post/avatar_hu2b8677dbd11a3ac9f837b9cb46f4e78c_51369_480x0_resize_box_3.png 480w, https://mnvhiz.github.io/post/my-first-post/avatar_hu2b8677dbd11a3ac9f837b9cb46f4e78c_51369_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;小王子（左侧头像）&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;100&#34;
+		data-flex-basis=&#34;240px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;表格&#34;&gt;表格&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;左对齐&lt;/th&gt;
+&lt;th style=&#34;text-align:right&#34;&gt;右对齐&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;居中对齐&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;5&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;6&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;脚注&#34;&gt;脚注&lt;/h3&gt;
+&lt;p&gt;这是一个脚注&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;。&lt;/p&gt;
+&lt;h3 id=&#34;定义&#34;&gt;定义&lt;/h3&gt;
+&lt;dl&gt;
+&lt;dt&gt;第一个事物&lt;/dt&gt;
+&lt;dd&gt;这是第一个事物的定义.&lt;/dd&gt;
+&lt;dt&gt;第二个事物&lt;/dt&gt;
+&lt;dd&gt;这是第二个事物的第一条定义.&lt;/dd&gt;
+&lt;dd&gt;这是第二个事物的第二条定义.&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;h3 id=&#34;任务列表&#34;&gt;任务列表&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 这是一个未完成的任务&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 这是一个已完成的任务&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;这是脚注的内容&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
